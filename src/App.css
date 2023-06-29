@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+.free{
+  color: rgb(2, 2, 43);
+  font-weight: bold;
+  font-size: large;
+}
+.h2 {
+  text-align: center;
+}
+.leftside{
+  /* border:1px solid; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 20px;
+  text-align: center;      
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin:20px;
+  min-height: 300px;
+
+}
+
+.rightside{
+  /* border:1px solid; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 20px;
+  /* text-align: center;       */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin:20px;
+  min-height: 300px;
+
+}
+.img{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.mainDiv{
+  background-color: rgb(134, 56, 111);
+}
